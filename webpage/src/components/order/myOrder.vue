@@ -37,6 +37,10 @@
             sortable: true
           },
           {
+            title: '环境:',
+            key: 'connection_name'
+          },
+          {
             title: '工单说明',
             key: 'text'
           },
